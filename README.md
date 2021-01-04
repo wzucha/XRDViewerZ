@@ -1,2 +1,2 @@
 # XRDViewerZ
-Poor man´s code to view XRD patterns. Can read .xrdml and .xy - files
+Poor man´s code to display XRD patterns. Can read .xrdml and .xy - files
